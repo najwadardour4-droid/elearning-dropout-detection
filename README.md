@@ -69,10 +69,15 @@ These metrics provide a balanced view of model performance, especially for detec
 
  Results
  ###  Results Comparison
-Model	Accuracy	Recall	F1-Score
-Logistic Regression	0.72	0.68	0.70
-KNN	0.76	0.71	0.73
-Random Forest	0.84	0.86	0.85
+### 🏆 Results Comparison
+
+| Model | Accuracy | Recall | F1-Score |
+| Logistic Regression | 0.72 | 0.68 | 0.70 |
+| KNN | 0.76 | 0.71 | 0.73 |
+| **Random Forest** | **0.84** | **0.86** | **0.85** |
+
+- **Random Forest** achieved the best overall performance.
+- It demonstrated stronger recall and F1-score in identifying students at risk of dropout compared to Logistic Regression and KNN.
 Random Forest achieved the best overall performance
 
 It demonstrated stronger recall and F1-score in identifying students at risk of dropout compared to Logistic Regression and KNN
