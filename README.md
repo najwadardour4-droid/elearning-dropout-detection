@@ -1,5 +1,5 @@
 E-Learning Dropout Detection using Machine Learning
-📌 Project Overview
+ Project Overview
 
 This project focuses on predicting student dropout in an e-learning environment using Machine Learning techniques.
 By analyzing students’ engagement and activity logs, the system aims to identify learners at risk of dropping out in order to support early intervention and academic success.
